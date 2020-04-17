@@ -2,5 +2,11 @@
 Usage of VGA with Arduino to Drive Monitor
 
 
-Example Image
+### Wiring  Diagram
+
+![Wiring](wiringDiagram.png)
+
+### Example Output
+
+
 ![Example Output](ExampleOutput.jpg)
